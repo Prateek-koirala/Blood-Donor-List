@@ -1,0 +1,30 @@
+#full_nav {
+    background-color: red;
+
+}
+
+.heading{
+    color: red;
+    
+}
+
+img{
+    width: 250px;
+    height: 150px;
+}
+
+.nav-link {
+    background-color: white;
+    color: red;
+    font-weight: bold;
+    
+}
+
+td,th{
+    border: 1px solid;
+}
+
+.card,.blockquote-footer{
+    background-color: red;
+    color: white;
+}
